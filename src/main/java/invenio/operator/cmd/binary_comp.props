@@ -1,0 +1,13 @@
+graph.in.1.node.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/predictedgraph1/g-1-2-1.NODE.person.tab
+graph.in.1.edge.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/predictedgraph1/g-1-2-1.UNDIRECTED.friend.tab
+graph.in.2.node.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/predictedgraph2/g-1-2-2.NODE.person.tab
+graph.in.2.edge.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/predictedgraph2/g-1-2-2.UNDIRECTED.friend.tab
+
+graph.out.1.node.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/out/g-1-2-1.NODE.person.tab
+graph.out.1.edge.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/out/g-1-2-1.UNDIRECTED.friend.tab
+graph.out.2.node.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/out/g-1-2-2.NODE.person.tab
+graph.out.2.edge.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/out/g-1-2-2.UNDIRECTED.friend.tab
+graph.out.3.node.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/out/g-1-2-3.NODE.person.tab
+graph.out.3.edge.file=C:/Workspace/Eclipse/Invenio/TabDelimIOReader/synthetic/out/g-1-2-3.UNDIRECTED.friend.tab
+	
+process.overwrite=true
